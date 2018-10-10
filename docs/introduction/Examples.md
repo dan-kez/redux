@@ -29,7 +29,9 @@ npm start
 
 Or check out the [sandbox](https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/counter):
 
-<!-- {% embed url="https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/counter" %} -->
+<!--ONLY_GITBOOK
+{% embed url="https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/counter" %}
+ONLY_GITBOOK-->
 
 This is the most basic example of using Redux together with React. For simplicity, it re-renders the React component manually when the store changes. In real projects, you will likely want to use the highly performant [React Redux](https://github.com/reactjs/react-redux) bindings instead.
 
